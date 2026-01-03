@@ -1,11 +1,11 @@
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
   <h1>Hi, I'm Kumar Piyush 👋</h1>
-  <h3>Full Stack Dev • LeetCode Enthusiast • Maker of Real-World Web Apps</h3>
+  <h3>Full Stack Developer • DSA Enthusiast • Builder of Real-World Web Apps</h3>
   <img src="https://komarev.com/ghpvc/?username=userzenox&label=Profile%20views&color=0e75b6&style=flat"/>
   <br/><br/>
   <a href="https://leetcode.com/userzenox">
-    <img src="https://img.shields.io/badge/LeetCode-200%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+    <img src="https://img.shields.io/badge/LeetCode-300%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
   <a href="mailto:piyush.132kp@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -20,20 +20,20 @@
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&pause=1000&color=A3FFD6&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;React+%7C+Node.js+%7C+PostgreSQL;Open+Source+and+DSA+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&pause=1000&color=A3FFD6&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;React+%7C+Node.js+%7C+PostgreSQL;DSA+%26+System+Design+Enthusiast;Lifelong+Learner" />
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🎓 B.Tech (Electronics & Communication), **VSSUT Odisha** (2022–2026)  
+- 🎓 **B.Tech in Electronics & Communication Engineering**, VSSUT Odisha (2022–2026)  
   **CGPA:** 7.99  
-- 🧠 Solved **200+ DSA problems** on LeetCode  
-- 🧩 Strong in **JavaScript, React, Node.js, Express.js & PostgreSQL (PERN Stack)**  
-- 🚀 Passionate about building **real-world, scalable web applications**  
-- 📶 Ex-Intern @ **BSNL** — 5G, broadband & networking  
-- 🔬 Ex-Intern @ **DRDO** — Python-based data compression  
-- 👨‍🎓 Interests: Open Source • Clean Code • System Design • DevOps-in-training  
+- 🧠 Solved **300+ Data Structures & Algorithms problems** on LeetCode  
+- 💻 Strong in **JavaScript, React, Node.js, Express.js & PostgreSQL (PERN Stack)**  
+- 🚀 Passionate about building **scalable, production-ready web applications**  
+- 📶 Former Intern @ **BSNL** — 5G, broadband & networking  
+- 🔬 Former Intern @ **DRDO** — Python-based data compression  
+- 🎯 Interests: Open Source • Clean Code • System Design • DevOps • AI/ML  
 
 ---
 
@@ -45,126 +45,95 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/userzenox/Product-Store">
-        <img src="https://img.shields.io/github/languages/top/userzenox/Product-Store?style=flat-square"/>
-        <br/><b>Product Store</b>
-      </a>
-      <br/>
-      <sub>PERN Stack product management platform with secure CRUD</sub>
-      <br/><br/>
-      <a href="https://product-store-wwsg.onrender.com">
-        <img src="https://img.shields.io/badge/Live%20Demo-22c55e?style=for-the-badge"/>
-      </a>
-      <a href="https://github.com/userzenox/Product-Store">
-        <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
-      </a>
-    </td>
+### 🛒 Product Store (PERN Stack)
+🔗 **Live Demo:** https://product-store-wwsg.onrender.com  
+💻 **GitHub:** https://github.com/userzenox/Product-Store  
 
-    <td align="center" width="50%">
-      <a href="https://github.com/userzenox/Family-Travel-Tracker">
-        <img src="https://img.shields.io/github/languages/top/userzenox/Family-Travel-Tracker?style=flat-square"/>
-        <br/><b>Family Travel Tracker</b>
-      </a>
-      <br/>
-      <sub>Interactive travel memory dashboard using PERN Stack</sub>
-      <br/><br/>
-      <a href="https://family-travel-tracker-rgpk.onrender.com">
-        <img src="https://img.shields.io/badge/Live%20Demo-22c55e?style=for-the-badge"/>
-      </a>
-      <a href="https://github.com/userzenox/Family-Travel-Tracker">
-        <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
-      </a>
-    </td>
-  </tr>
+- Full-stack product management platform with secure CRUD functionality  
+- REST APIs built using Express.js and PostgreSQL  
+- Responsive React frontend styled with Tailwind CSS  
+- Backend deployed on Render, frontend on Netlify  
+- Designed for scalability and clean architecture  
 
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://doccurehealth.netlify.app">
-        <img src="https://img.shields.io/badge/-Doccure-blueviolet?style=flat-square"/>
-        <br/><b>Doccure Healthcare</b>
-      </a>
-      <br/>
-      <sub>Telemedicine platform with React & REST APIs</sub>
-      <br/><br/>
-      <a href="https://doccurehealth.netlify.app">
-        <img src="https://img.shields.io/badge/Live%20Demo-22c55e?style=for-the-badge"/>
-      </a>
-    </td>
+---
 
-    <td align="center" width="50%">
-      <a href="https://pokemon-webcentric.netlify.app">
-        <img src="https://img.shields.io/badge/-PokéSearch-yellow?style=flat-square"/>
-        <br/><b>PokéSearch</b>
-      </a>
-      <br/>
-      <sub>Fast Pokédex with real-time search & filters</sub>
-      <br/><br/>
-      <a href="https://pokemon-webcentric.netlify.app">
-        <img src="https://img.shields.io/badge/Live%20Demo-22c55e?style=for-the-badge"/>
-      </a>
-    </td>
-  </tr>
+### 🌍 Family Travel Tracker (PERN Stack)
+🔗 **Live Demo:** https://family-travel-tracker-rgpk.onrender.com  
+💻 **GitHub:** https://github.com/userzenox/Family-Travel-Tracker  
 
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://simongam-e.netlify.app">
-        <img src="https://img.shields.io/badge/-Simon%20Game-orange?style=flat-square"/>
-        <br/><b>Simon Game</b>
-      </a>
-      <br/>
-      <sub>Classic memory game using pure JavaScript & DOM</sub>
-      <br/><br/>
-      <a href="https://simongam-e.netlify.app">
-        <img src="https://img.shields.io/badge/Live%20Demo-22c55e?style=for-the-badge"/>
-      </a>
-    </td>
+- Application to log, visualize, and manage family travel experiences  
+- Interactive dashboard with smooth CRUD operations  
+- Optimized PostgreSQL schema for multi-user scenarios  
+- Secure authentication and role-based access  
+- Demoed to faculty with positive feedback  
 
-    <td align="center" width="50%">
-      <a href="https://github.com/userzenox/Full-Stack">
-        <img src="https://img.shields.io/github/languages/top/userzenox/Full-Stack?style=flat-square"/>
-        <br/><b>Full-Stack Template</b>
-      </a>
-      <br/>
-      <sub>Scalable Node.js • Prisma • React • PostgreSQL starter</sub>
-      <br/><br/>
-      <a href="https://github.com/userzenox/Full-Stack">
-        <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
-      </a>
-    </td>
-  </tr>
-</table>
+---
+
+### 🏥 Doccure – Healthcare Platform
+🔗 **Live Demo:** https://doccurehealth.netlify.app  
+
+- Telemedicine platform enabling doctor-patient connectivity  
+- Modular React frontend with responsive design  
+- REST API integration for appointments and scheduling  
+- Focus on UX, accessibility, and mobile usability  
+
+---
+
+### 🔍 PokéSearch – Pokédex App
+🔗 **Live Demo:** https://pokemon-webcentric.netlify.app  
+
+- Fast Pokédex built using PokéAPI  
+- Real-time search and Pokémon type filtering  
+- Optimized API calls with debounce and caching  
+- Strong emphasis on performance and user experience  
+
+---
+
+### 🎮 Simon Game (JavaScript)
+🔗 **Live Demo:** https://simongam-e.netlify.app  
+
+- Browser-based memory game inspired by the classic Simon Game  
+- Built using pure JavaScript and DOM manipulation  
+- Progressive difficulty with audio-visual feedback  
+- Played by 50+ users with great feedback  
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=userzenox&show_icons=true&theme=react&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=userzenox&layout=compact&theme=react&hide_border=true"/>
-  <img src="https://streak-stats.demolab.com/?user=userzenox&theme=react&hide_border=true"/>
-</p>
+
+<div align="center">
+  <img height="170em"
+       src="https://github-readme-stats.vercel.app/api?username=userzenox&show_icons=true&theme=react&hide_border=true" />
+  <img height="170em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=userzenox&layout=compact&theme=react&hide_border=true" />
+</div>
+
+<div align="center">
+  <img
+       src="https://streak-stats.demolab.com/?user=userzenox&theme=react&hide_border=true" />
+</div>
+
+
 
 ---
 
+
 ## 🌱 Currently Learning
 
-- ⚡ Advanced DSA & TypeScript  
-- ☁️ DevOps (Docker, CI/CD, Render)  
-- 🔒 Web Security & best practices  
+- ⚡ Advanced Data Structures & System Design  
+- 🤖 Artificial Intelligence & Machine Learning (Python, NumPy, Pandas, ML fundamentals)  
+- ☁️ DevOps (Docker, CI/CD pipelines, cloud deployment)  
+- 🔒 Web security and best practices  
 
 ---
 
@@ -188,7 +157,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&pause=2000&color=EF7DFF&center=true&vCenter=true&width=435&lines=Thank+you+for+visiting+my+profile!+😊"/>
-  <br/>
   <b>Made with ❤️ by Kumar Piyush</b>
 </p>
